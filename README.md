@@ -16,5 +16,6 @@
   <img align="center" alt="Joab-Html" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />                 
 </div>
 <div>
+  <h2>Redes Sociais</h2>
   <a href="https://www.linkedin.com/in/joab-maia-383097202" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
