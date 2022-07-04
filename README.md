@@ -7,5 +7,6 @@ Olá! Seja Bem Vindo(a) ao meu GitHub! 😀
   <img align="center" alt="Joab-Html" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Joab-Html" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Joab-Html" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-                         
+  <img align="center" alt="Joab-Html" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Joab-Html" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />                   
 </div>
