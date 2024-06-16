@@ -2,7 +2,7 @@
 
 <div>
   <h2>Biografia</h2>
-  <p>Sou formado em Engenharia de Computação pelo Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB-Campus Campina Grande e trabalho como Systems Analyst na Accenture, Technology, Brazil. Já atuei como monitor da disciplina de Cálculo Diferencial e Integral 2 e participei dos seguintes projetos no Campus IFPB-CG: Desenvolvimento de kit didático para disciplinas com ênfase em eletrônica digital, Análise do fenômeno da evasão nos cursos superiores do IFPB / Campus Campina Grande e Sistema para detecção e monitoramento de alunos em risco de evasão.</p>
+  <p>Sou pós-graduado em Engenharia de Software pela PUC-Minas Gerais, bacharel em Engenharia de Computação pelo Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB-Campus Campina Grande e trabalho como Systems Analyst na Accenture, Technology, Brazil. Já atuei como monitor da disciplina de Cálculo Diferencial e Integral 2 e participei dos seguintes projetos no Campus IFPB-CG: Desenvolvimento de kit didático para disciplinas com ênfase em eletrônica digital, Análise do fenômeno da evasão nos cursos superiores do IFPB / Campus Campina Grande e Sistema para detecção e monitoramento de alunos em risco de evasão.</p>
 </div>
 <div style="display: inline_block"><br>
   <h2>Tecnologias</h2>
